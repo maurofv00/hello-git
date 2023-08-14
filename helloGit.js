@@ -1,2 +1,2 @@
 console.log(`New Hello Git`);
-console.log(`Qué tal curso?`);
+console.log(`New Qué tal curso?`);
